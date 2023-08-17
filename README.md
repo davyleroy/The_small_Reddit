@@ -18,25 +18,25 @@ You need to have `curl` installed on your system to run this script. You can typ
         chmod +x kitten.sh
 	    ```
 
-	    4. Run the script:
+4. Run the script:
 
 	        ```bash
 		    ./kitten.sh
 		        ```
 
-			5. If the script runs successfully, a kitten image will be fetched and saved as `kitten.jpg` in the current directory.
+5. If the script runs successfully, a kitten image will be fetched and saved as `kitten.jpg` in the current directory.
 
-			## Customization
+## Customization
 
 			You can customize the script by modifying the `API_KEY` and `API_HOST` variables in the `kitten.sh` script to use your own API key or host if necessary.
 
-			## Notes
+## Notes
 
 			- This script uses the Community PlaceKitten API to fetch kitten images. Make sure you have an active internet connection when running the script.
 
 			- The fetched kitten image will be saved as `kitten.jpg` in the current directory.
 
-			## License
+## License
 
 			This project is licensed under the [MIT License](LICENSE).
 
